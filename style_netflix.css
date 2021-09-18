@@ -1,0 +1,68 @@
+.img
+{
+    background-image: url("home theater.jpg");
+    min-width:500px;
+    height:600px;
+    
+}
+.hding1
+{
+    color: red;
+}
+
+.lst{
+    display: flex;
+    color:red;
+    list-style-type: none;
+}
+
+.l1
+{
+    
+   
+    font-size: 34px;
+    text-align: left;
+    
+}
+
+.l2
+{
+    font-size: 14px;
+    text-align: right;
+}
+
+.l3
+{
+    font-size: 14px;
+    text-align: right;
+}
+
+
+
+.pg1
+{
+    font-size: 34px;
+    text-align: center ;
+    color: white;
+    margin-top: 150px;
+    
+}
+
+.pg2
+
+{
+    font-size: 25px;
+    text-align: center ;
+    color: white;
+    margin-top: 25px;
+}
+
+.pg3
+
+{
+    font-size: 19.2px;
+    text-align: center ;
+    color: white;
+    margin-top: 25px;
+     
+}
